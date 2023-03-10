@@ -2,7 +2,7 @@
 
 This repo will contain a few examples of web frameworks.
 
-[Cypress](cypress/README.md) 
+[Cypress](cypress) 
 > Test modern apps directly in your browser
 > 
 Build, test, and debug directly in your browser with a seamless developer experience that is loved by developers all around the world. Test your code, not your patience.
