@@ -1,0 +1,17 @@
+# IDES
+.vscode
+.vscode-test
+.idea
+
+## cypress output
+cypress/cypress/screenshots
+cypress/cypress/videos
+cypress/cypress/results
+reports
+
+# Dependency directories
+node_modules
+
+
+## Desktop
+.DS_Store
